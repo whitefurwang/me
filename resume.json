@@ -1,0 +1,239 @@
+{
+  "basics": {
+    "name": [
+      "王嘉煥",
+      "Whitefur Wang"
+    ],
+    "label": "front-end developer",
+    "picture": "./img/profile-image.jpeg",
+    "email": "whitefur.wang@gmail.com",
+    "summary": [
+      "透過介面人與人之間能夠交流知識、經驗、概念，進而產生價值。語言使介面能夠運作，設計師運用優良的設計語言和使用者溝通，而前端工程師透過程式語言將設計師的想法實現。易於閱讀、維護的程式語言亦是工程師之間重要的溝通介面。",
+      "我喜歡觀察介面、思考介面，好的介面讓資訊能夠順暢地傳遞，優秀的介面讓人使用起來愉悅。期許自己持續產出優秀的介面，讓重要的資訊能愉悅地傳遞出去。"
+    ],
+    "location": {
+      "postalCode": "112/108",
+      "city": "Beitou/Wanhua",
+      "countryCode": "TW",
+      "region": "Taipei"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Whitefur Wang",
+        "url": "https://www.linkedin.com/in/whitefur-wang/"
+      },
+      {
+        "network": "Codepen",
+        "username": "Whitefur",
+        "url": "https://codepen.io/whitefur/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "F2E Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML (PUG/HAML)",
+        "CSS (SASS)",
+        "Javascript (ES6/StandardJS)",
+        "jQuery/jQuery plugin develope",
+        "AJAX",
+        "React",
+        "Gulp w/ Browserify (Node.js)",
+        "RequireJS",
+        "Git (SourceTree)",
+        "Github flow",
+        "Markdown (for code documentation)"
+      ]
+    },
+    {
+      "name": "Web/App UI Designer",
+      "level": "Junior",
+      "keywords": [
+        "RWD",
+        "User flow planning",
+        "Web/App UI design",
+        "Sketch 3",
+        "MarkMan",
+        "Photoshop",
+        "Illustrator"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "美而快實業股份有限公司 - Pazzo",
+      "position": "Front-End Developer",
+      "website": "",
+      "startDate": "2016-08-22",
+      "endDate": "2018-03-30",
+      "summary": "",
+      "highlights": [
+        "品牌官網維運與改版: [Pazzo](https://http://www.pazzo.com.tw/), [Meier.Q](http://www.meierq.com/)",
+        "合作品牌官網開發: [Mercci22](https://www.mercci22.com/), [Genquo](https://www.genquo.com/)",
+        [
+          "開發模式優化",
+          [
+            "導入 PUG & SASS (Gulp)",
+            "導入 Github Flow 協同開發模式",
+            "導入 git submodule 輔助跨專案共用模組開發模式",
+            "整合各專案 gulp task flow (Node.js)"
+          ]
+        ],
+        [
+          "前端開發",
+          [
+            "重構前端程式 (Gulp Browserify/ES6)",
+            "整合前端渲染模板框架 (React)",
+            "共用功能模組 (JavaScript/jQuery/React) [[模組列表](/)]",
+            "API 資料串接 (AJAX)",
+            "導入及撰寫程式操作文件 (Markdown)",
+            "導入及撰寫 API 文件",
+            "重構設計師常態營運畫面排版工具程式並優化介面 (jQuery)",
+            "快速瀏覽購物車商品相關資訊以前端紀錄並渲染，解決伺服器塞車問題"
+          ]
+        ]
+      ]
+    },
+    {
+      "company": "實品實業股份有限公司 - 菓實日",
+      "position": "Business Manager",
+      "startDate": "2016-01-04",
+      "endDate": "2016-07-31",
+      "summary": "",
+      "highlights": [
+        "合作店家管理",
+        "訂單管理",
+        "產銷庫存管理",
+        "粉絲頁管理"
+      ]
+    },
+    {
+      "company": "菓實日 - 網頁設計 (Freelance)",
+      "position": "Web design",
+      "startDate": "2015-09-01",
+      "endDate": "2015-12-31",
+      "highlights": [
+        "E-commerce web design",
+        "User flow",
+        "Mockup",
+        "Slicing (Haml/Sass)",
+        "RWD (Susy)"
+      ]
+    },
+    {
+      "company": "iWEECARE - Temp Pal App (Freelance)",
+      "position": "App UI design",
+      "website": [
+        "http://www.iweecare.com/EN/"
+      ],
+      "startDate": "2015-04-01",
+      "endDate": "2015-05-31",
+      "summary": "",
+      "highlights": [
+        "UI design (iOS)",
+        "User flow",
+        "Mockup",
+        "尺寸標記",
+        "切圖"
+      ]
+    },
+    {
+      "company": "J-MEX - MOTi App (Freelance)",
+      "position": "App UI design",
+      "website": [
+        "http://www.moti-wearable.com/product/"
+      ],
+      "startDate": "2015-04-01",
+      "endDate": "2015-05-31",
+      "summary": "",
+      "highlights": [
+        "UI design (iOS)",
+        "User flow",
+        "Mockup",
+        "尺寸標記",
+        "切圖"
+      ]
+    },
+    {
+      "company": "易普網路股份有限公司 - EZprice 比價網",
+      "position": "UI/UX Designer",
+      "website": [
+        "https://ezprice.com.tw/"
+      ],
+      "startDate": "2013-07-01",
+      "endDate": "2015-03-31",
+      "summary": "",
+      "highlights": [
+        "導入 HAML & SASS with Fire.app",
+        "Product planning, design & slicing: [EZprice 價格監控](https://pricetrack.ezprice.com.tw/)",
+        "Product design: [電腦比價神器](https://chrome.google.com/webstore/detail/ezprice%E6%89%BE%E4%BE%BF%E5%AE%9C%EF%BC%9A%E8%B3%BC%E7%89%A9%E6%AF%94%E5%83%B9%E3%80%81%E6%90%9C%E6%9B%B8%E6%AF%94%E5%83%B9%E3%80%81%E5%83%B9%E6%A0%BC%E6%AF%94%E8%BC%83/ahknmaojkhdoddgeaaldehdddnfpomoi?hl=zh-TW)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2017新竹黑客松 － 新竹特色獎",
+      "date": "2017-11-26",
+      "awarder": "脆餅馬沙拉",
+      "summary": "新竹市是出生率最高的縣市，許多家長越來越重視孩童教育的問題，但相關補習班往往是透過口耳相傳。透過深度訪談了解家長的需求，整理教育部及新竹相關的開放資料，包括補習班是否合法立案、違規歷史紀錄、課程內容以及位置等資料，同時搜尋網路評價，建立一補習班資訊管理系統，讓家長可以快速搜尋到符合需求的補習班。"
+    }
+  ],
+  "education": [
+    {
+      "institution": "長庚大學 Chang Gung University",
+      "area": "工業設計系 Industrial Design",
+      "studyType": "學士 Bachelor",
+      "startDate": "2006-09-01",
+      "endDate": "2011-06-09"
+    },
+    {
+      "institution": "國立台灣師大附中 HSNU",
+      "area": "普通班",
+      "startDate": "2003-09-01",
+      "endDate": "2006-06-08"
+    }
+  ],
+  "volunteer": [],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Moderate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Volleyball",
+      "keywords": [
+        "Opposite"
+      ]
+    },
+    {
+      "name": "Skateboard",
+      "keywords": [
+        "Street surfing"
+      ]
+    },
+    {
+      "name": "Surfing",
+      "keywords": [
+        "Beginner"
+      ]
+    },
+    {
+      "name": "Folk rock",
+      "keywords": [
+        "Guitar",
+        "Cajon",
+        "Egg shaker",
+        "Just for fun"
+      ]
+    }
+  ]
+}
