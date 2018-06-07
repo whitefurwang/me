@@ -1,9 +1,7 @@
 [
   {
     "name": "JSON Profile",
-    "website": [
-      "https://whitefurwang.github.io/profile/"
-    ],
+    "website": [],
     "cover": "https://fakeimg.pl/700x400/?text=Hello",
     "images": [
       "https://fakeimg.pl/700x400/?text=Hello",
@@ -17,7 +15,7 @@
     "position": "Front-End Developer",
     "summary": [
       "以 resume.json、work.json、code.json 三支檔案管理內容，使用 React 及 React Router 製作網站。",
-      "一向都很擅長做事和組織工作內容，但一碰到的是自己的事時卻往往寸步難行。為了整理出適合前端工程師的個人經歷，在資料要怎麼整理和畫面要如何呈現上花了許多心力。希望將來檔案經過整理後能開源這個專案，讓更多工程師也能輕鬆整理出自己的經歷。"
+      "一向很擅長做事和組織工作內容，但一碰到的是自己的事時卻往往寸步難行。為了整理出適合前端工程師的個人經歷，在資料要怎麼整理和畫面要如何呈現上花了許多心力。希望將來檔案經過整理後能開源這個專案，讓更多工程師也能輕鬆整理出自己的經歷。"
     ],
     "highlights": [
       "SPA",
