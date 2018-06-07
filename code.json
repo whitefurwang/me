@@ -1,0 +1,29 @@
+[
+  {
+    "name": "String to Link",
+    "description": "文字轉換為連結",
+    "url": "./code/string2link.js",
+    "demo": {
+      "title": "[CodePen] JavaScript - Markdown-like String to Link",
+      "url": "https://codepen.io/whitefur/full/PaZbwL/"
+    }
+  },
+  {
+    "name": "String.prototype.commafy()",
+    "description": "數字加上千位符號（可自訂符號）",
+    "url": "./code/commafy.js",
+    "demo": {
+      "title": "[CodePen] JavaScript - String.prototype.commafy()",
+      "url": "https://codepen.io/whitefur/full/dzzPBb/"
+    }
+  },
+  {
+    "name": "React - Select",
+    "description": "依傳入的參數決定 select 樣式，有「自訂/單選/原生」三種樣式",
+    "url": "./code/react-select.js",
+    "demo": {
+      "title": "[CodePen] React - Select",
+      "url": "https://codepen.io/whitefur/full/oyzwyQ/"
+    }
+  }
+]

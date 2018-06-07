@@ -62,7 +62,7 @@
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "美而快實業股份有限公司 - Pazzo",
       "position": "Front-End Developer",
@@ -71,30 +71,14 @@
       "endDate": "2018-03-30",
       "summary": "",
       "highlights": [
-        "品牌官網維運與改版: [Pazzo](https://http://www.pazzo.com.tw/), [Meier.Q](http://www.meierq.com/)",
-        "合作品牌官網開發: [Mercci22](https://www.mercci22.com/), [Genquo](https://www.genquo.com/)",
-        [
-          "開發模式優化",
-          [
-            "導入 PUG & SASS (Gulp)",
-            "導入 Github Flow 協同開發模式",
-            "導入 git submodule 輔助跨專案共用模組開發模式",
-            "整合各專案 gulp task flow (Node.js)"
-          ]
-        ],
-        [
-          "前端開發",
-          [
-            "重構前端程式 (Gulp Browserify/ES6)",
-            "整合前端渲染模板框架 (React)",
-            "共用功能模組 (JavaScript/jQuery/React) [[模組列表](/)]",
-            "API 資料串接 (AJAX)",
-            "導入及撰寫程式操作文件 (Markdown)",
-            "導入及撰寫 API 文件",
-            "重構設計師常態營運畫面排版工具程式並優化介面 (jQuery)",
-            "快速瀏覽購物車商品相關資訊以前端紀錄並渲染，解決伺服器塞車問題"
-          ]
-        ]
+        "品牌官網維運與改版: [Pazzo](https://http://www.pazzo.com.tw/), [Meier.Q](https://www.meierq.com/)",
+        "合作品牌官網開發、維運與改版: [Mercci22](https://www.mercci22.com/), [Genquo](https://www.genquo.com/)",
+        "開發模式優化及整合，增加開發及維運效率、解決共同開發時的衝突",
+        "重構前端檔案、開發共用模組、編寫相關文件，加強前端開發完整性及統一性",
+        "API 資料串接及資料紀錄，減少伺服器請求次數，解決大流量時塞車問題",
+        "透過瀏覽器記錄的資料渲染畫面，減少後端畫面調整需求",
+        "行銷素材製作，並設計製作流程增加製作效率",
+        "日常維運、日常需求開發、年度改版、活動網頁製作"
       ]
     },
     {
@@ -175,10 +159,16 @@
   ],
   "awards": [
     {
+      "title": "2018資料創新應用競賽 － 入圍",
+      "date": "2019-05-31",
+      "awarder": "教育沙拉",
+      "summary": "Android App UI 設計"
+    },
+    {
       "title": "2017新竹黑客松 － 新竹特色獎",
       "date": "2017-11-26",
       "awarder": "脆餅馬沙拉",
-      "summary": "新竹市是出生率最高的縣市，許多家長越來越重視孩童教育的問題，但相關補習班往往是透過口耳相傳。透過深度訪談了解家長的需求，整理教育部及新竹相關的開放資料，包括補習班是否合法立案、違規歷史紀錄、課程內容以及位置等資料，同時搜尋網路評價，建立一補習班資訊管理系統，讓家長可以快速搜尋到符合需求的補習班。"
+      "summary": "App UI 設計/Demo App 製作 (Vue.js)"
     }
   ],
   "education": [

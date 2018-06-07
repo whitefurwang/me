@@ -1,0 +1,151 @@
+[
+  {
+    "name": "JSON Profile",
+    "website": [
+      "https://whitefurwang.github.io/profile/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "SPA",
+      "React",
+      "JSON Profile"
+    ],
+    "position": "Front-End Developer",
+    "summary": [
+      "以 resume.json、work.json、code.json 三支檔案管理內容，使用 React 及 React Router 製作網站。",
+      "一向都很擅長做事和組織工作內容，但一碰到的是自己的事時卻往往寸步難行。為了整理出適合前端工程師的個人經歷，在資料要怎麼整理和畫面要如何呈現上花了許多心力。希望將來檔案經過整理後能開源這個專案，讓更多工程師也能輕鬆整理出自己的經歷。"
+    ],
+    "highlights": [
+      "SPA",
+      "React",
+      "React Router",
+      "[React Image Lightbox](https://www.npmjs.com/package/react-image-lightbox)",
+      "[React Syntax Highlighter](https://www.npmjs.com/package/react-syntax-highlighter)",
+      "Gulp + Browserify",
+      "ES6",
+      "Sass",
+      "[Font Awesome](https://fontawesome.com/)",
+      "Inspired by [JSON Resume](https://jsonresume.org/) & [Bootstrap](https://getbootstrap.com/)",
+      "Thanks for coming"
+    ]
+  },
+  {
+    "name": "Pazzo/Meieir.Q",
+    "website": [
+      "https://www.pazzo.com.tw/",
+      "https://www.meierq.com/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "E-Commerce Website",
+      "Fast Fashion"
+    ],
+    "position": "Front-End Developer",
+    "summary": [
+      "Pazzo 及 Meier.Q 是快速時尚品牌，有各自的風格及目標客群。",
+      "兩個網站原來使用不同的前端開發方式，但有許多功能相同而程式結構不同的情形。導入並實作許多開發工具及觀念，減少開發及維運上重工的情形，增加開發效率，也減少了共同開發時的衝突情形。",
+      "日常維運上，規劃常態維護資料的製作流程，並主動優化介面操作的細節。改版或新單元製作上，追求完整呈現設計師提供的畫面。"
+    ],
+    "highlights": [
+      {
+        "前端開發模式優化": [
+          "導入 Github Flow 整合共同開發模式",
+          "導入 git submodule 實現跨專案代碼共用",
+          "Gulp 共用開發流程重新設計 (git submodule)",
+          "前端共用模組資料夾結構規劃 (git submodule)"
+        ]
+      },
+      {
+        "前端開發": [
+          "導入 pug/sass 重構 HTML/CSS",
+          "採用 CommonJS 重構 js (bundle by Browserify)",
+          "整理專案資料夾結構及整合資源調用邏輯 (require js files by RequireJS)",
+          "共用功能模組開發 (JavaScript/jQuery/React)",
+          "API 資料串接及資料紀錄，減少伺服器請求次數 (AJAX/JSON)",
+          "透過瀏覽器記錄的資料渲染畫面，減少後端畫面調整需求",
+          "解決跨網域資料遺漏問題",
+          "前端渲染模板框架整合 (React)",
+          "導入前端模組文件，並設計格式及編寫 (Markdown)",
+          "導入 API 文件，並設計格式及編寫",
+          "重構設計師常態營運畫面排版工具程式並優化介面 (jQuery)"
+        ]
+      },
+      {
+        "日常維運、活動及改版":
+        [
+          "行動裝置介面優化",
+          "Pazzo 2017 春季改版",
+          "Pazzo × Krispy Kreme 活動頁",
+          "Pazzo 2017 周年慶活動頁",
+          "行銷素材製作及製作流程規劃：電子報、popup",
+          "404 圖片判斷，避免圖片讀取問題造成畫面空白情形"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mercci22",
+    "website": [
+      "https://www.mercci22.com/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "E-Commerce Website",
+      "Fashion"
+    ],
+    "position": "Front-End Developer",
+    "summary": [
+      "Mercci22 是知名時尚部落客漢娜妞創立的服飾品牌，於 2017/1/3 上線。",
+      "初期開發時就以最佳的瀏覽體驗為目標，針對不同尺寸裝置都能提供良好的介面呈現。",
+      "配合網站成長持續調整介面，讓越來越複雜的資訊都能適當地呈現。",
+      "粉絲大幅成長後，新品上市時常有網站阻塞的情形。以前端記錄及渲染購物車資訊的方式，減少大量的伺服器請求，大幅優化網站效能。"
+    ],
+    "highlights": [
+      "官網前期開發（RWD）",
+      "持續優化操作介面",
+      "以前端實現購物車資訊呈現，大幅優化網站效能",
+      "日常維運與行銷素材製作"
+    ]
+  },
+  {
+    "name": "Genquo",
+    "website": [
+      "https://www.genquo.com/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "E-Commerce Website",
+      "Simple Life"
+    ],
+    "position": "Front-End Developer",
+    "summary": [
+      "Genquo 是范瑋琪創立的生活感服飾品牌，於 2017/5/9 上線。",
+      "網站呈現樸實舒適的風格，介面以簡約直覺為目標，減去多餘的裝飾，並持續優化更好的操作流程及介面元素。",
+      "營運團隊提出以文章介紹品牌精神及商品特色的需求，在有限的開發時間裡，以既有的網站架構出發，開發出友善閱讀且易於編輯的部落格單元。",
+      "2018 年初，為了加強品牌辨識度，網站進行風改調整。在網站整體最小調整幅度的原則下，僅以 css 調整即達到改版 90% 的目標。"
+    ],
+    "highlights": [
+      "官網前期開發（RWD）",
+      "持續優化操作介面",
+      "部落格單元開發",
+      "2018 春季改版",
+      "日常維運與行銷素材製作"
+    ]
+  }
+]
