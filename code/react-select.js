@@ -1,5 +1,3 @@
-import 'React' from 'react'
-
 class Select extends React.Component {
   constructor (props) {
     super(props)
@@ -160,5 +158,3 @@ class Select extends React.Component {
     }
   }
 }
-
-module.exports = Select

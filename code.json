@@ -1,6 +1,6 @@
 [
   {
-    "name": "String to Link",
+    "name": "JavaScript - String to Link",
     "description": "文字轉換為連結",
     "url": "./code/string2link.js",
     "demo": {
@@ -9,7 +9,7 @@
     }
   },
   {
-    "name": "String.prototype.commafy()",
+    "name": "JavaScript - String Commafy",
     "description": "數字加上千位符號（可自訂符號）",
     "url": "./code/commafy.js",
     "demo": {
@@ -24,6 +24,15 @@
     "demo": {
       "title": "[CodePen] React - Select",
       "url": "https://codepen.io/whitefur/full/oyzwyQ/"
+    }
+  },
+  {
+    "name": "React - Long Pressed Button",
+    "description": "長按逐漸加速、持續回傳傳入數值的按鈕",
+    "url": "./code/react-long-pressed-button.js",
+    "demo": {
+      "title": "[CodePen] React - Long Pressed Plus/Minus Button",
+      "url": "https://codepen.io/whitefur/full/oeRMzq/"
     }
   }
 ]
