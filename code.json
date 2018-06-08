@@ -1,7 +1,7 @@
 [
   {
     "name": "JavaScript - String to Link",
-    "description": "文字轉換為連結",
+    "description": "將類似 Markdown 連結語法的字串轉換為連結",
     "url": "./code/string2link.js",
     "demo": {
       "title": "[CodePen] JavaScript - Markdown-like String to Link",
@@ -27,8 +27,17 @@
     }
   },
   {
+    "name": "React - Img",
+    "description": "可設定預設圖、找不到圖片時的圖的圖片標籤，另外提供找不到圖片時的圖也找不到時的是間接口 onErrorAll",
+    "url": "./code/react-select.js",
+    "demo": {
+      "title": "[CodePen] React - Img",
+      "url": "https://codepen.io/whitefur/full/ERNEJo/"
+    }
+  },
+  {
     "name": "React - Long Pressed Button",
-    "description": "長按逐漸加速、持續回傳傳入數值的按鈕",
+    "description": "長按持續回傳設定數值，並且逐漸加速的按鈕",
     "url": "./code/react-long-pressed-button.js",
     "demo": {
       "title": "[CodePen] React - Long Pressed Plus/Minus Button",

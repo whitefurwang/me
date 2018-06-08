@@ -2,7 +2,11 @@
   {
     "name": "JSON Profile",
     "website": [],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "cover": "https://faaaaaakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
     "tags": [
       "SPA",
       "React",
@@ -11,9 +15,8 @@
     ],
     "position": "Front-End Developer",
     "summary": [
-      "以 resume.json、work.json、code.json 三支檔案管理內容，使用 React 及 React Router 製作網站。",
-      "Code 分頁的程式碼以非同步取得，配合 localStorage 記錄內容，增加網站效能。",
-      "整理出適合前端工程師的個人經歷的資料格式及網站畫面，希望將來整理後能開源這個專案，讓更多工程師也能輕鬆做出自己的經歷。"
+      "以 resume.json、work.json、code.json 三支檔案管理內容，使用 React 及 React Router 製作網站。Code 分頁的程式碼以非同步取得，配合 localStorage 記錄內容，增加網站效能。",
+      "整理出適合前端工程師的資料格式及網站畫面，希望整理過後能開源此專案，讓更多工程師也能輕鬆做出個人網站。"
     ],
     "highlights": [
       "SPA",
@@ -31,15 +34,8 @@
   },
   {
     "name": "Pazzo/Meieir.Q",
-    "website": [
-      "https://www.pazzo.com.tw/",
-      "https://www.meierq.com/"
-    ],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
-    "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
-    ],
+    "website": [],
+    "cover": "https://faaaaaakeimg.pl/700x400/?text=Hello",
     "tags": [
       "E-Commerce Website",
       "Fast Fashion"
@@ -104,9 +100,7 @@
     "position": "Front-End Developer",
     "summary": [
       "Mercci22 是知名時尚部落客漢娜妞創立的服飾品牌，於 2017/1/3 上線。",
-      "初期開發時以最佳的瀏覽體驗為目標，在不同裝置皆提供良好的介面。",
-      "配合網站成長持續調整介面，讓日益複雜的資訊能夠適當地呈現。",
-      "粉絲大幅成長後，新品上市時常有網站阻塞的情形。以前端記錄及渲染購物車資訊的方式，減少大量的伺服器請求，大幅優化網站效能。"
+      "初期開發時以最佳的瀏覽體驗為目標，在不同裝置皆提供良好的介面。配合網站成長持續調整介面，讓日益複雜的資訊能夠適當地呈現。粉絲大幅成長後，新品上市時常有網站阻塞的情形。以前端記錄及渲染購物車資訊的方式，減少大量的伺服器請求，大幅優化網站效能。"
     ],
     "highlights": [
       "官網前期開發（RWD）",
@@ -121,10 +115,7 @@
       "https://www.genquo.com/"
     ],
     "cover": "https://fakeimg.pl/700x400/?text=Hello",
-    "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
-    ],
+    "images": [],
     "tags": [
       "E-Commerce Website",
       "Simple Life"
@@ -133,8 +124,7 @@
     "summary": [
       "Genquo 是范瑋琪創立的生活感服飾品牌，於 2017/5/9 上線。",
       "網站呈現樸實舒適的風格，介面以簡約直覺為目標，減去多餘的裝飾，並持續優化更好的操作流程及介面元素。",
-      "營運團隊提出以文章介紹品牌精神及商品特色的需求，在有限的開發時間裡，以既有的網站架構出發，開發出友善閱讀且易於編輯的部落格單元。",
-      "2018 年初，為了加強品牌辨識度，網站進行風改調整。在網站整體最小調整幅度的原則下，僅以 css 調整即達到改版 90% 的目標。"
+      "營運團隊提出以文章介紹品牌精神及商品特色的需求，在有限的開發時間裡，以既有的網站架構開發出部落格單元。為了加強品牌辨識度，網站2018 年初進行風改調整，在網站整體最小幅度變化的原則下，以調整 css 完成主視覺調整。"
     ],
     "highlights": [
       "官網前期開發（RWD）",
@@ -158,8 +148,7 @@
     ],
     "position": "Web Design",
     "summary": [
-      "菓實日是網路知名的法式甜點品牌，原以架站平台銷售商品，為了配合需求進行網站改版並製作獨立官網。",
-      "透過了解需求後規劃及設計網站，以直覺的介面滿足多樣的瀏覽需求，並且在瀏覽過程中加強甜點師之於甜點的角色。",
+      "菓實日是網路知名的法式甜點品牌，原以架站平台銷售商品，為了實現一些想法因此決定製作獨立官網。透過了解需求後規劃及設計網站，以直覺的介面滿足多樣的瀏覽需求，並且在瀏覽過程中加強甜點師的角色。",
       "2016 年七月時暫時歇業，網站同時下架。"
     ],
     "highlights": [
@@ -167,36 +156,55 @@
       "RWD (Susy)",
       "Haml/Sass (Fire.app)"
     ]
+  },
+  {
+    "name": "Temp Pal App",
+    "website": [
+      "http://www.iweecare.com/EN/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "Smart Patch",
+      "Health Protector"
+    ],
+    "position": "App Design",
+    "summary": [
+      "Temp Pal 是一款智慧型體溫貼片，幫助婦女及嬰幼兒偵測體溫，以精細的技術觀測身體健康狀況。",
+      "App 提供許多延伸功能，規劃詳盡的 UI flow 讓每個功能都能完整的發揮。使用柔的色調及視覺元素整合多功能的介面，維持良好的閱讀及操作性。"
+    ],
+    "highlights": [
+      "UI flow 規劃",
+      "視覺及介面設計",
+      "切圖與尺寸標記"
+    ]
+  },
+  {
+    "name": "MOTi App",
+    "website": [
+      "http://www.iweecare.com/EN/"
+    ],
+    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "images": [
+      "https://fakeimg.pl/700x400/?text=Hello",
+      "https://fakeimg.pl/700x400/?text=World"
+    ],
+    "tags": [
+      "Smart Bracelet",
+      "Workout Training"
+    ],
+    "position": "App Design",
+    "summary": [
+      "MOTi 是一款智慧型健身手環，結合手環偵測運動狀態提供更精細的健身教學，。",
+      "規劃 UI flow 協助開發團隊釐清 app 整體架構與流程，運用已完成的視覺元素進行介面設計。"
+    ],
+    "highlights": [
+      "UI flow 規劃",
+      "介面設計",
+      "切圖與尺寸標記"
+    ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
