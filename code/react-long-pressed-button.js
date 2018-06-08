@@ -20,15 +20,21 @@ class LongPressedButton extends React.Component {
     e.preventDefault()
     this.handleChange()
     document.addEventListener('mouseup', this.handleStop, false)
+    document.addEventListener('touchend', this.handleStop, false)
   }
 
   handleStop () {
     clearTimeout(this.tid)
     document.removeEventListener('mouseup', this.handleStop, false)
+    document.removeEventListener('touchend', this.handleStop, false)
     this.setState({ speed: 300 })
   }
 
   render () {
-    return <a href='#' onMouseDown={this.handleStart}>{this.props.value}</a>
+    return (
+      <a href='#' onMouseDown={this.handleStart} onTouchStart={this.handleStart}>
+        {this.props.value}
+      </a>
+    )
   }
 }

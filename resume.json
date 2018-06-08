@@ -4,7 +4,7 @@
       "王嘉煥",
       "Whitefur Wang"
     ],
-    "label": "front-end developer",
+    "label": "Front-End Developer",
     "picture": "./img/profile-image.jpeg",
     "email": "whitefur.wang@gmail.com",
     "summary": [
@@ -95,50 +95,38 @@
       ]
     },
     {
-      "company": "菓實日 - 網頁設計 (Freelance)",
-      "position": "Web design",
-      "startDate": "2015-09-01",
-      "endDate": "2015-12-31",
+      "company": "Freelance",
+      "position": "Web/App UI designer",
       "highlights": [
-        "E-commerce web design",
-        "User flow",
-        "Mockup",
-        "Slicing (Haml/Sass)",
-        "RWD (Susy)"
-      ]
-    },
-    {
-      "company": "iWEECARE - Temp Pal App (Freelance)",
-      "position": "App UI design",
-      "website": [
-        "http://www.iweecare.com/EN/"
-      ],
-      "startDate": "2015-04-01",
-      "endDate": "2015-05-31",
-      "summary": "",
-      "highlights": [
-        "UI design (iOS)",
-        "User flow",
-        "Mockup",
-        "尺寸標記",
-        "切圖"
-      ]
-    },
-    {
-      "company": "J-MEX - MOTi App (Freelance)",
-      "position": "App UI design",
-      "website": [
-        "http://www.moti-wearable.com/product/"
-      ],
-      "startDate": "2015-04-01",
-      "endDate": "2015-05-31",
-      "summary": "",
-      "highlights": [
-        "UI design (iOS)",
-        "User flow",
-        "Mockup",
-        "尺寸標記",
-        "切圖"
+        {
+          "菓實日": [
+            "E-commerce web design",
+            "User flow",
+            "Mockup",
+            "Slicing (Haml/Sass)",
+            "RWD (Susy)"
+          ]
+        },
+        {
+          "iWEECARE - Temp Pal App": [
+            "[Temp Pal](http://www.iweecare.com/EN/)",
+            "App UI design",
+            "User flow",
+            "Mockup",
+            "尺寸標記",
+            "切圖"
+          ]
+        },
+        {
+          "J-MEX - MOTi App": [
+            "[MOTi](http://www.moti-wearable.com/product/)",
+            "App UI design",
+            "User flow",
+            "Mockup",
+            "尺寸標記",
+            "切圖"
+          ]
+        }
       ]
     },
     {
@@ -159,13 +147,13 @@
   ],
   "awards": [
     {
-      "title": "2018資料創新應用競賽 － 入圍",
+      "title": "2018 資料創新應用競賽 － 入圍",
       "date": "2019-05-31",
       "awarder": "教育沙拉",
       "summary": "Android App UI 設計"
     },
     {
-      "title": "2017新竹黑客松 － 新竹特色獎",
+      "title": "2017 新竹黑客松 － 新竹特色獎",
       "date": "2017-11-26",
       "awarder": "脆餅馬沙拉",
       "summary": "App UI 設計/Demo App 製作 (Vue.js)"

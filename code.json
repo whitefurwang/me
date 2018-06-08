@@ -34,5 +34,14 @@
       "title": "[CodePen] React - Long Pressed Plus/Minus Button",
       "url": "https://codepen.io/whitefur/full/oeRMzq/"
     }
+  },
+  {
+    "name": "Sass - Hover Description",
+    "description": "純 CSS 游標 hover 說明文字對話框",
+    "url": "./code/hover-desc.sass",
+    "demo": {
+      "title": "[CodePen] Pure CSS - Hover Description Box",
+      "url": "https://codepen.io/whitefur/full/GvOqRr/"
+    }
   }
 ]
