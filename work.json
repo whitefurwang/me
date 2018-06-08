@@ -2,10 +2,10 @@
   {
     "name": "JSON Profile",
     "website": [],
-    "cover": "https://faaaaaakeimg.pl/700x400/?text=Hello",
+    "cover": "https://faaaaaakeimg.pl/700x400/?text=cover 1",
     "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
+      "https://fakeimg.pl/700x400/?text=image 1-1",
+      "https://fakeimg.pl/700x400/?text=image 1-2"
     ],
     "tags": [
       "SPA",
@@ -35,7 +35,8 @@
   {
     "name": "Pazzo/Meieir.Q",
     "website": [],
-    "cover": "https://faaaaaakeimg.pl/700x400/?text=Hello",
+    "cover": "https://faaaaaakeimg.pl/700x400/?text=cover 2",
+    "images": [],
     "tags": [
       "E-Commerce Website",
       "Fast Fashion"
@@ -88,10 +89,10 @@
     "website": [
       "https://www.mercci22.com/"
     ],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "cover": "",
     "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
+      "https://faaaaaakeimg.pl/700x400/?text=image 3-1",
+      "https://fakeimg.pl/700x400/?text=image 3-2"
     ],
     "tags": [
       "E-Commerce Website",
@@ -114,7 +115,7 @@
     "website": [
       "https://www.genquo.com/"
     ],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "cover": "",
     "images": [],
     "tags": [
       "E-Commerce Website",
@@ -137,10 +138,9 @@
   {
     "name": "菓實日",
     "website": [],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
+    "cover": "https://fakeimg.pl/700x400/?text=cover 5",
     "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
+      "https://fakeimg.pl/700x400/?text=image 5"
     ],
     "tags": [
       "E-Commerce Website",
@@ -162,10 +162,9 @@
     "website": [
       "http://www.iweecare.com/EN/"
     ],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
     "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
+      "https://fakeimg.pl/700x400/?text=image 6-1",
+      "https://fakeimg.pl/700x400/?text=image 6-2"
     ],
     "tags": [
       "Smart Patch",
@@ -187,11 +186,7 @@
     "website": [
       "http://www.iweecare.com/EN/"
     ],
-    "cover": "https://fakeimg.pl/700x400/?text=Hello",
-    "images": [
-      "https://fakeimg.pl/700x400/?text=Hello",
-      "https://fakeimg.pl/700x400/?text=World"
-    ],
+    "cover": "https://fakeimg.pl/700x400/?text=cover 7",
     "tags": [
       "Smart Bracelet",
       "Workout Training"
