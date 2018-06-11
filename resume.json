@@ -6,29 +6,100 @@
     ],
     "label": "Front-End Developer",
     "picture": "./img/profile-image.jpeg",
-    "email": "whitefur.wang@gmail.com",
     "summary": [
-      "透過介面人與人之間能夠交流知識、經驗、概念，進而產生價值。語言使介面能夠運作，設計師運用優良的設計語言和使用者溝通，而前端工程師透過程式語言將設計師的想法實現。易於閱讀、維護的程式語言亦是工程師之間重要的溝通介面。",
-      "我喜歡觀察介面、思考介面，好的介面讓資訊能夠順暢地傳遞，優秀的介面讓人使用起來愉悅。期許自己持續產出優秀的介面，讓重要的資訊能愉悅地傳遞出去。"
+      "我喜歡觀察介面、思考介面。介面讓人能夠交流知識與概念，在訊息交流的過程中價值因而產生。",
+      "語言是介面的重要推手，設計師用設計語言和使用者溝通，前端工程師透過程式語言將設計師的語言實現。好的程式語言更是工程師之間重要的溝通介面。"
     ],
-    "location": {
-      "postalCode": "112/108",
-      "city": "Beitou/Wanhua",
-      "countryCode": "TW",
-      "region": "Taipei"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Whitefur Wang",
-        "url": "https://www.linkedin.com/in/whitefur-wang/"
+    "contact": {
+      "network": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/whitefur-wang/"
+        },
+        {
+          "name": "Github",
+          "url": ""
+        },
+        {
+          "name": "Codepen",
+          "url": "https://codepen.io/whitefur/"
+        },
+        {
+          "name": "Behance",
+          "url": ""
+        },
+        {
+          "name": "dribbble",
+          "url": ""
+        },
+        {
+          "name": "Pinterest",
+          "url": ""
+        },
+        {
+          "name": "Facebook",
+          "url": ""
+        },
+        {
+          "name": "Instagram",
+          "url": ""
+        },
+        {
+          "name": "Twitter",
+          "url": ""
+        },
+        {
+          "name": "tumblr",
+          "url": ""
+        },
+        {
+          "name": "Weibo",
+          "url": ""
+        },
+        {
+          "name": "GooglePlus",
+          "url": ""
+        },
+        {
+          "name": "YouTube",
+          "url": ""
+        },
+        {
+          "name": "Vine",
+          "url": ""
+        },
+        {
+          "name": "website",
+          "url": ""
+        }
+      ],
+      "location": {
+        "postalCode": "",
+        "city": "",
+        "country": "Taiwan",
+        "region": "Taipei"
       },
-      {
-        "network": "Codepen",
-        "username": "Whitefur",
-        "url": "https://codepen.io/whitefur/"
-      }
-    ]
+      "email": "whitefur.wang@gmail.com",
+      "number": "",
+      "communication": [
+        {
+          "name": "WhatsApp",
+          "account": ""
+        },
+        {
+          "name": "Line",
+          "account": ""
+        },
+        {
+          "name": "WeChat",
+          "account": ""
+        },
+        {
+          "name": "Skype",
+          "account": ""
+        }
+      ]
+    }
   },
   "skills": [
     {

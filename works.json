@@ -2,10 +2,10 @@
   {
     "name": "JSON Profile",
     "website": [],
-    "cover": "https://faaaaaakeimg.pl/700x400/?text=cover 1",
     "images": [
-      "https://fakeimg.pl/700x400/?text=image 1-1",
-      "https://fakeimg.pl/700x400/?text=image 1-2"
+      "./img/work_json_profile_1.jpg",
+      "./img/work_json_profile_2.jpg",
+      "./img/work_json_profile_3.jpg"
     ],
     "tags": [
       "SPA",

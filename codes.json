@@ -28,7 +28,7 @@
   },
   {
     "name": "React - Img",
-    "description": "可設定預設圖、找不到圖片時的圖的圖片標籤，另外提供找不到圖片時的圖也找不到時的是間接口 onErrorAll",
+    "description": "可設定預設圖、找不到圖片時的圖的圖片標籤，另外提供找不到圖片時的圖也找不到時的接口 onErrorAll",
     "url": "./code/react-select.js",
     "demo": {
       "title": "[CodePen] React - Img",
