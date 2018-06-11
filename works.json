@@ -5,7 +5,7 @@
     "images": [
       "./img/work_json_profile_1.jpg",
       "./img/work_json_profile_2.jpg",
-      "./img/work_json_profile_3.jpg"
+      "./img/work_json_profile_3.png"
     ],
     "tags": [
       "SPA",
@@ -15,8 +15,8 @@
     ],
     "position": "Front-End Developer",
     "summary": [
-      "以 resume.json、work.json、code.json 三支檔案管理內容，使用 React 及 React Router 製作網站。Code 分頁的程式碼以非同步取得，配合 localStorage 記錄內容，增加網站效能。",
-      "整理出適合前端工程師的資料格式及網站畫面，希望整理過後能開源此專案，讓更多工程師也能輕鬆做出個人網站。"
+      "以 resume.json、works.json、codes.json 三支檔案管理內容，使用 React 及 React Router 製作網站。Codes 分頁的程式碼以非同步取得，配合 localStorage 記錄內容，增加網站效能。",
+      "整理出適合前端工程師的資料格式及履歷畫面，希望整理過後能開源此專案，讓更多工程師也能輕鬆做出個人履歷網站。"
     ],
     "highlights": [
       "SPA",
@@ -35,8 +35,14 @@
   {
     "name": "Pazzo/Meieir.Q",
     "website": [],
-    "cover": "https://faaaaaakeimg.pl/700x400/?text=cover 2",
-    "images": [],
+    "images": [
+      "./img/work_pazzo_1.jpg",
+      "./img/work_pazzo_2.jpg",
+      "./img/work_pazzo_3.jpg",
+      "./img/work_meierq_1.jpg",
+      "./img/work_meierq_2.jpg",
+      "./img/work_meierq_3.jpg"
+    ],
     "tags": [
       "E-Commerce Website",
       "Fast Fashion"
@@ -89,10 +95,10 @@
     "website": [
       "https://www.mercci22.com/"
     ],
-    "cover": "",
     "images": [
-      "https://faaaaaakeimg.pl/700x400/?text=image 3-1",
-      "https://fakeimg.pl/700x400/?text=image 3-2"
+      "./img/work_mercci22_1.jpg",
+      "./img/work_mercci22_2.jpg",
+      "./img/work_mercci22_3.jpg"
     ],
     "tags": [
       "E-Commerce Website",
@@ -115,8 +121,13 @@
     "website": [
       "https://www.genquo.com/"
     ],
-    "cover": "",
-    "images": [],
+    "images": [
+      "./img/work_genquo_1.jpg",
+      "./img/work_genquo_2.jpg",
+      "./img/work_genquo_3.jpg",
+      "./img/work_genquo_4.jpg",
+      "./img/work_genquo_5.jpg"
+    ],
     "tags": [
       "E-Commerce Website",
       "Simple Life"
@@ -138,9 +149,14 @@
   {
     "name": "菓實日",
     "website": [],
-    "cover": "https://fakeimg.pl/700x400/?text=cover 5",
     "images": [
-      "https://fakeimg.pl/700x400/?text=image 5"
+      "./img/work_kajitsu_1.png",
+      "./img/work_kajitsu_2.png",
+      "./img/work_kajitsu_3.png",
+      "./img/work_kajitsu_4.png",
+      "./img/work_kajitsu_5.png",
+      "./img/work_kajitsu_6.png",
+      "./img/work_kajitsu_7.png"
     ],
     "tags": [
       "E-Commerce Website",
@@ -163,8 +179,9 @@
       "http://www.iweecare.com/EN/"
     ],
     "images": [
-      "https://fakeimg.pl/700x400/?text=image 6-1",
-      "https://fakeimg.pl/700x400/?text=image 6-2"
+      "./img/work_temppal_1.png",
+      "./img/work_temppal_2.jpg",
+      "./img/work_temppal_3.jpg"
     ],
     "tags": [
       "Smart Patch",
@@ -186,7 +203,11 @@
     "website": [
       "http://www.iweecare.com/EN/"
     ],
-    "cover": "https://fakeimg.pl/700x400/?text=cover 7",
+    "images": [
+      "./img/work_moti_1.png",
+      "./img/work_moti_2.jpg",
+      "./img/work_moti_3.png"
+    ],
     "tags": [
       "Smart Bracelet",
       "Workout Training"
