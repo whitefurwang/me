@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "JavaScript - Deep Copy",
+    "description": "複製值而不是複製參照，可複製任意型別的 JavaScript 物件",
+    "url": "./code/clone.js",
+    "demo": {
+      "title": "[CodePen] JavaScript - Deep Copy",
+      "url": "https://codepen.io/whitefur/full/QxgMrL/"
+    }
+  },
+  {
     "name": "React - Select",
     "description": "依傳入的參數決定 select 樣式，有「自訂/單選/原生」三種樣式",
     "url": "./code/react-select.js",
