@@ -1,5 +1,14 @@
 [
   {
+    "name": "JavaScript - Deep Copy",
+    "description": "複製值而不是複製參照，可複製任意型別的 JavaScript 物件",
+    "url": "./code/clone.js",
+    "demo": {
+      "title": "[CodePen] JavaScript - Deep Copy",
+      "url": "https://codepen.io/whitefur/full/QxgMrL/"
+    }
+  },
+  {
     "name": "JavaScript - String to Link",
     "description": "將類似 Markdown 連結語法的字串轉換為連結",
     "url": "./code/string2link.js",
@@ -15,15 +24,6 @@
     "demo": {
       "title": "[CodePen] JavaScript - String.prototype.commafy()",
       "url": "https://codepen.io/whitefur/full/dzzPBb/"
-    }
-  },
-  {
-    "name": "JavaScript - Deep Copy",
-    "description": "複製值而不是複製參照，可複製任意型別的 JavaScript 物件",
-    "url": "./code/clone.js",
-    "demo": {
-      "title": "[CodePen] JavaScript - Deep Copy",
-      "url": "https://codepen.io/whitefur/full/QxgMrL/"
     }
   },
   {
