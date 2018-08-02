@@ -54,6 +54,14 @@
     }
   },
   {
+    "name": "CSS - Flex Practice",
+    "description": "可以即時調整的 CSS Flex 屬性實作",
+    "demo": {
+      "title": "[CodePen] CSS - Flex Practice",
+      "url": "https://codepen.io/whitefur/full/EpQBqJ/"
+    }
+  },
+  {
     "name": "Sass - Hover Description",
     "description": "純 CSS 游標 hover 說明文字對話框",
     "url": "./code/hover-desc.sass",
